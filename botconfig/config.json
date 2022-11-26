@@ -1,0 +1,70 @@
+{
+  "token": "OTY1NjcwNDExOTk4MjI0NDM0.Yl2kpw.Dwtyp0GPBO2Vp3sSRCczVOrIkaw",
+  "mongo": "mongodb+srv://SpaceMusic:shivamop@cluster0.kgvij.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": "?",
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "lava.link",
+        "port": 80,
+        "password": "lava",
+        "retryDelay": 4000,
+        "secure": false
+      },
+       {
+        "host": "disbotlistlavalink.ml",
+        "port": 443,
+        "password": "LAVA",
+        "retryDelay": 4000,
+        "secure": true
+      },
+      {
+        "host": "lavalink-repl.parasop.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "retryDelay": 4000,
+        "secure": true
+      },
+      {
+        "host": "main.paras888.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "retryDelay": 4000,
+        "secure": true 
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": ":<:song:965677586715901974>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/u9x5gdZ6Vw",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=965670411998224434&permissions=8&scope=bot%20applications.commands",
+    "opmusicinv": "https://discord.com/api/oauth2/authorize?client_id=965670411998224434&permissions=8&scope=bot%20applications.commands",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=965670411998224434&permissions=8&scope=bot%20applications.commands",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=965670411998224434&permissions=8&scope=bot%20applications.commands",
+    "opmusicvote": "https://discord.gg/u9x5gdZ6Vw"
+  },
+  "ownerIDS": [
+    "806810037459746846",
+    "806810037459746846",
+    "806810037459746846",
+    "806810037459746846",
+      "806810037459746846"
+  ]
+}
