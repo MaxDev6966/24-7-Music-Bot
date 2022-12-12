@@ -1,5 +1,5 @@
 {
-  "token": "OTY1NjcwNDExOTk4MjI0NDM0.Yl2kpw.Dwtyp0GPBO2Vp3sSRCczVOrIkaw",
+  "token": "",
   "mongo": "mongodb+srv://SpaceMusic:shivamop@cluster0.kgvij.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "prefix": "?",
   "clientsettings": {
